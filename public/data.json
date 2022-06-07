@@ -1,0 +1,44 @@
+[
+  {
+    "item": "Professional Piler",
+    "img": "https://i.ibb.co/XVKGR6R/Pincer-Pliers-Hand-Tool.jpg",
+    "minimumorder": 3,
+    "available": 50,
+    "price": 5
+  },
+  {
+    "item": "5 meter rubber steel measuring tape",
+    "img": "https://i.ibb.co/TmWj6Kt/5m-Measure-Tape.jpg",
+    "minimumorder": 3,
+    "available": 50,
+    "price": 2
+  },
+  {
+    "item": "Hand saw",
+    "img": "https://i.ibb.co/CPf6XY7/Hand-saw.jpg",
+    "minimumorder": 3,
+    "available": 50,
+    "price": 7
+  },
+  {
+    "item": "Woode Chisel",
+    "img": "https://i.ibb.co/BgXPZ5c/chisel.jpg",
+    "minimumorder": 3,
+    "available": 50,
+    "price": 2
+  },
+  {
+    "item": "Hammer",
+    "img": "https://i.ibb.co/tQSK8Vg/Hammer.jpg",
+    "minimumorder": 3,
+    "available": 50,
+    "price": 4
+  },
+  {
+    "item": "Ruler Tool",
+    "img": "https://i.ibb.co/C9wC4kz/ruler.jpg",
+    "minimumorder": 3,
+    "available": 50,
+    "price": 4
+  }
+]
